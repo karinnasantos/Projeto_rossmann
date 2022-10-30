@@ -201,8 +201,8 @@ Definição e Interpretação das Métricas
 
 ---
 # Contato
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/karinafss/)
+ [linkedin](www.linkedin.com/in/karinafss/)
 
-[e-mail](karinnasantos0@gmail.com)
+karinnasantos0@gmail.com
 
-[Portifólio de projetos](https://karinnasantos.github.io/project_portfolio/)
+Portifólio de projetos: https://karinnasantos.github.io/project_portfolio/
