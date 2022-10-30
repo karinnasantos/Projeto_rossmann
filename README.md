@@ -201,7 +201,7 @@ Definição e Interpretação das Métricas
 
 ---
 # Contato
- [linkedin](www.linkedin.com/in/karinafss/)
+[Likedin](https://www.linkedin.com/in/karinafss/)
 
 karinnasantos0@gmail.com
 
