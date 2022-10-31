@@ -65,14 +65,13 @@ As premissas do negócio são realizadas para melhorar a qualidade das análises
 # 5. Ferramentas e Métodos utilizados
 
 * Python 3.10
-* Pandas, Matplotlib, Seaborn and Sklearn.
-* Jupyter Notebook and VSCode.
-* Flask
+* Pandas, Matplotlib, Seaborn, Sklearn e Flask.
+* VSCode
 * Git and Github.
-* Exploratory Data Analysis (EDA).
-* Techniques for Feature Selection.
-* Regression Algorithms (Linear and Lasso Regression; Random Forest, XGBoost and LGBM Regressors).
-* Cross-Validation Methods, Hyperparameter Optimization and Algorithms Performance Metrics (RMSE, MAE, MAPE, R2).
+* Exploratory Data Analysis - Análise exploratória de dados (EDA).
+* Feature Selection - seleção de atributos.
+* Algoritmos de regressão - Regression Algorithms (Linear and Lasso Regression; Random Forest, XGBoost and LGBM Regressors).
+* Métodos de Cross-Validation, Hyperparameter e Métricas de Desempenho de Algoritmos (RMSE, MAE, MAPE, R2).
 
 
 # 6. Principais insights de negócios
